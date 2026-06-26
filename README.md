@@ -7,6 +7,7 @@ This repository contains my coursework for CIS106: Computer Logic and Programmin
 The primary project in this course — the Dog Rescue Application — simulates the operations of a small rescue organization. It manages dog profiles, adoption status, and volunteer interactions. This project represents my first end‑to‑end software build, from logic design to implementation.
 
 Purpose
+
 The Dog Rescue Application demonstrates how core programming concepts can be applied to solve real‑world problems. The project incorporates:
 
 Modular and reusable Python functions
@@ -31,6 +32,7 @@ Early exposure to object‑oriented programming
 Familiarity with GitHub version control and project documentation
 
 Repository Contents
+
 File	Description
 dogrescue.py	Main Python script for the Dog Rescue Application
 Module 2 Problems.docx – Q5.docx	Logic and problem‑solving assignments completed throughout the course
